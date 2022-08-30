@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: white;
+    font-size: 50px;
+    font-family: 'Rubik', sans-serif;
+    margin: 30px 30px;
+}
+
+#scritta-logo {
+    vertical-align: top;
+}
+
