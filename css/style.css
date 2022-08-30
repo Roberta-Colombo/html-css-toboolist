@@ -27,6 +27,7 @@ body {
 nav {
     background-color: white;
     margin-top: 40px;
+    margin-bottom: 5px;
     padding: 15px;
 }
 
@@ -45,4 +46,42 @@ nav {
     padding: 6px 12px;
     border-radius: 7px;
     border-color: lightgrey;
+}
+
+.task-list {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #444851;
+    padding-left: 30px;
+    line-height: 2.5;
+}
+
+ul {
+    list-style: none; 
+}
+
+.done {
+    color: #86D0BF;
+    font-size: 10px;
+    border: solid;
+    border-color: #86D0BF;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.not-done {
+    color: red;
+    font-size: 11px;
+    border: solid;
+    border-color: red;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 15px;
 }
