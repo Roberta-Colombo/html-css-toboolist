@@ -54,6 +54,7 @@ nav {
     color: #444851;
     padding-left: 30px;
     line-height: 2.5;
+    font-weight: bold;
 }
 
 ul {
@@ -84,4 +85,39 @@ ul {
     text-align: center;
     display: inline-block;
     margin-right: 15px;
+}
+
+.label {
+    color: white;
+    padding: 6px 10px;
+    border-radius: 12px;
+    border-style: none; 
+    font-weight: normal;
+    font-size: 11px;
+    margin-left: 5px;
+}
+
+.editorial {
+    background-color: #45ABEA;
+}
+
+.q1-goals {
+    background-color: #9C72E4;  
+}
+
+.recruiting {
+    background-color: #64C0A9;
+}
+
+.mobile {
+    background-color: #F29E33;
+}
+
+.website {
+    background-color: #D863A1;
+}
+
+.sales {
+    background-color: #B0C926;
+
 }
