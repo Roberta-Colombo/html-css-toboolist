@@ -80,6 +80,8 @@ li {
     text-align: center;
     display: inline-block;
     margin-right: 15px;
+    line-height: 20px;
+    vertical-align: middle;
 }
 
 .not-done {
@@ -93,6 +95,8 @@ li {
     text-align: center;
     display: inline-block;
     margin-right: 15px;
+    line-height: 20px;
+    vertical-align: middle;
 }
 
 .label {
